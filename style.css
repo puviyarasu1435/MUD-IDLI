@@ -487,27 +487,22 @@ ul {
 @keyframes biani {
     0% {
         border-radius: 48% 52% 57% 43% / 34% 44% 56% 66%;
-        animation-duration: 1s;
+        
     }
     25% {
         border-radius: 62% 38% 64% 36% / 34% 55% 45% 66%;
-        animation-duration: 1s;
+       
     }
     50% {
         border-radius: 43% 57% 51% 49% / 33% 42% 58% 67%;
-        animation-duration: 1s;
+       
     }
     100% {
         border-radius: 40% 60% 43% 57% / 52% 32% 68% 48%;
-        animation-duration: 1s;
+        
     }
 
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(360deg);
-    }
+  
 }
 
 .banner-img-text .h5-title {
