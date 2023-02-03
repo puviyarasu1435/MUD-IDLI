@@ -479,7 +479,6 @@ ul {
     background-size: cover;
     background-position: center;
     animation: biani 5.5s linear infinite alternate;
-    animation-duration: 25s;
     box-shadow: 0 0px 20px rgba(36, 39, 37, 0.3);
 }
 
